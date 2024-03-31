@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-image: url(images.jpg/Bechamel.jpg);
+    margin: 0;
+    padding: 30;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Arial', sans-serif;
+    color: #fff; 
+}
+header{
+    background-color: #e77e7e;
+    color:rgb(243, 194, 194);
+    padding: 30px;
+    text-align:center;
+}
+h1,h2{
+    color:#f8c7c7;
+}
+ul{
+    padding: 30;
+}
+li{
+    margin-bottom: 8px;
+}
+.method ol {
+    margin-top: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+footer{
+    margin-top: 20px;
+    text-align:center;
+    color:666;
+
+} 
