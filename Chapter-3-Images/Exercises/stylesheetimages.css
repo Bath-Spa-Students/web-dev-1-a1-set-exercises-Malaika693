@@ -1,0 +1,75 @@
+body{
+    background-image:  radial-gradient(#494b9a, #1c2c75, #373e33);
+}
+
+.h{
+    text-align: center;
+    font-family: "Sedgwick Ave Display", cursive;
+    font-size: xx-large;
+    color: rgb(230, 221, 221);
+}
+
+.box{ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.img1{
+    flex: 1;
+    margin: 10px;
+    filter:invert()
+}
+
+.bff{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    font-size: 29px;
+    color: rgb(230, 221, 221);
+}
+
+.bf{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    color: rgb(126, 120, 120);
+}
+
+.img3{
+    flex: 1;
+    margin: 10px;
+    filter: contrast(400%);
+}
+
+.bqv{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    font-size: 29px;
+    color: rgb(230, 221, 221);
+}
+
+.bq{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    color: rgb(126, 120, 120);
+}
+
+.img2{
+    flex: 1;
+    margin: 10px;
+    filter: grayscale(100%)
+}
+
+.bls{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    font-size: 29px;
+    color: rgb(230, 221, 221);
+}
+
+.bl{
+    text-align: center;
+    font-family: "Sedgwick Ave", cursive;
+    color: rgb(126, 120, 120);
+}
